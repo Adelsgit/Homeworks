@@ -77,6 +77,7 @@ space_hero_example = SpaceHero(
     name="Galactic Guardian",
     nickname="Star Voyager",
     superpower="Cosmic Energy Manipulation",
+
     health_points=500,
     catchphrase="To infinity, and beyond!",
     damage=75,
